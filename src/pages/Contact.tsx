@@ -173,10 +173,9 @@ const Contact = () => {
                     <div>
                       <h3 className="text-xl font-semibold text-gray-900 mb-3">Our Office</h3>
                       <p className="text-gray-600 text-lg">
-                        123 Business Plaza, Suite 456<br />
-                        Downtown District<br />
-                        Mumbai, Maharashtra 400001<br />
-                        India
+                        Sector 59 Sahibzada Ajit Singh Nagar,<br />
+                        Phase 5, Mohali,<br />
+                        Chandigarh,<br />India
                       </p>
                     </div>
                   </div>
