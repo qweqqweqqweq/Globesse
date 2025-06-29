@@ -43,7 +43,7 @@ const AboutUs = () => {
           <div className="animate-fade-in">
             <div className="relative">
               <img 
-                src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=800&q=80" 
+                src="gl.jpg" 
                 alt="Professional consultation" 
                 className="rounded-lg shadow-xl"
               />
